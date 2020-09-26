@@ -1,7 +1,7 @@
 # Template
 Contract 
 
-POST /0x742d35Cc6634C0532925a3b844Bc454e4438f44e/token/create
+POST /0xa910f92acdaf488fa6ef02174fb86208ad7722ba/token/create
 
 Create link_token request COPY  Copy
 0x81824663353A9d29b01B2DE9dd9a2Bb271d298c==
