@@ -1,7 +1,7 @@
 # Template
 Contract 
-
-POST /0xa910f92acdaf488fa6ef02174fb86208ad7722ba/token/create
+POST /accounts/balance/get/
+0xa910f92acdaf488fa6ef02174fb86208ad7722ba/token/create
 
 Create link_token request COPY  Copy
 0xa910f92acdaf488fa6ef02174fb86208ad7722ba==
